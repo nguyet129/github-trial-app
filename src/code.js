@@ -1,1 +1,1 @@
-alert("Have a nice day!");
+alert("Guten tag!");
